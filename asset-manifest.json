@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/advice/static/css/main.7cb47b37.css",
-    "main.js": "/advice/static/js/main.ad2f34e2.js",
-    "static/js/787.fc7a31c1.chunk.js": "/advice/static/js/787.fc7a31c1.chunk.js",
-    "index.html": "/advice/index.html",
-    "static/media/icon-dice.svg": "/advice/static/media/icon-dice.08691e4c24c11b5ba564.svg",
-    "main.7cb47b37.css.map": "/advice/static/css/main.7cb47b37.css.map",
-    "main.ad2f34e2.js.map": "/advice/static/js/main.ad2f34e2.js.map",
-    "787.fc7a31c1.chunk.js.map": "/advice/static/js/787.fc7a31c1.chunk.js.map"
+    "main.css": "/studyReact/static/css/main.16d25063.css",
+    "main.js": "/studyReact/static/js/main.58ed3f7a.js",
+    "static/js/787.fc7a31c1.chunk.js": "/studyReact/static/js/787.fc7a31c1.chunk.js",
+    "index.html": "/studyReact/index.html",
+    "static/media/icon-dice.svg": "/studyReact/static/media/icon-dice.08691e4c24c11b5ba564.svg",
+    "main.16d25063.css.map": "/studyReact/static/css/main.16d25063.css.map",
+    "main.58ed3f7a.js.map": "/studyReact/static/js/main.58ed3f7a.js.map",
+    "787.fc7a31c1.chunk.js.map": "/studyReact/static/js/787.fc7a31c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb47b37.css",
-    "static/js/main.ad2f34e2.js"
+    "static/css/main.16d25063.css",
+    "static/js/main.58ed3f7a.js"
   ]
 }
