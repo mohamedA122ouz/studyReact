@@ -1,2 +1,0 @@
-"# finish-it" 
-"# studyReact" 
